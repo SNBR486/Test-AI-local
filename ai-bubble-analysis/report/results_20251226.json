@@ -1,0 +1,70 @@
+{
+  "similarity_vs_2000": {
+    "pearson": 0.927,
+    "cosine": 0.562,
+    "dtw_like": 0.832
+  },
+  "similarity_vs_2008": {
+    "pearson": 0.329,
+    "cosine": 0.748,
+    "dtw_like": 0.704
+  },
+  "latest_composite": 0.3104053509690219,
+  "risk_flag": true,
+  "peaks": {
+    "2000_peak": "2000-03-31",
+    "2008_peak": "2008-09-30",
+    "ai_ref": "2025-11-30"
+  },
+  "ai_valuations": [
+    {
+      "ticker": "NVDA",
+      "market_cap": 4663546478592,
+      "trailing_pe": 47.41213,
+      "forward_pe": 25.358007,
+      "price_to_sales_ttm": 24.919828
+    },
+    {
+      "ticker": "MSFT",
+      "market_cap": 3623371145216,
+      "trailing_pe": 34.69466,
+      "forward_pe": 26.008436,
+      "price_to_sales_ttm": 12.332277
+    },
+    {
+      "ticker": "GOOGL",
+      "market_cap": 3796908113920,
+      "trailing_pe": 30.884731,
+      "forward_pe": 27.980568,
+      "price_to_sales_ttm": 9.849921
+    },
+    {
+      "ticker": "META",
+      "market_cap": 1671916421120,
+      "trailing_pe": 29.311535,
+      "forward_pe": 21.999008,
+      "price_to_sales_ttm": 8.824734
+    },
+    {
+      "ticker": "AVGO",
+      "market_cap": 1671607091200,
+      "trailing_pe": 74.068275,
+      "forward_pe": 25.181398,
+      "price_to_sales_ttm": 26.165058
+    },
+    {
+      "ticker": "AMD",
+      "market_cap": 349955686400,
+      "trailing_pe": 112.541885,
+      "forward_pe": 33.28116,
+      "price_to_sales_ttm": 10.926133
+    },
+    {
+      "ticker": "SMCI",
+      "market_cap": 18335969280,
+      "trailing_pe": 24.18504,
+      "forward_pe": 10.091635,
+      "price_to_sales_ttm": 0.87096083
+    }
+  ]
+}

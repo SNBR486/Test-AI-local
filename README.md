@@ -1,1 +1,1 @@
-# Test-AI-local
+OpenHands local test OK
